@@ -1,4 +1,4 @@
 # QUIZZAPP
-My first Quiz App made on JavaScript
+# My first Quiz App made on JavaScript
 Link to view it on web: 
 
