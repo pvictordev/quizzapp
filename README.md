@@ -1,2 +1,4 @@
 # QUIZZAPP
-My first Quiz App made on JavaScript
+# Quiz App made on JavaScript
+Deploy:  https://pvictordev.github.io/quizzapp/ 
+
